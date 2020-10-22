@@ -1,0 +1,5 @@
+include ':lib-sdptransform'
+include ':lib-release'
+include ':lib-release'
+include ':app'
+rootProject.name = "TransformActivity"
