@@ -1,5 +1,5 @@
 # libSDPtransform-android
-Java version of the sdp-transform JavaScript library exposing the same API.  libsdptransform is a simple parser and writer of SDP. Defines internal grammar based on RFC4566 - SDP, RFC5245 - ICE, and many more.
+Java version of the sdp-transform C++ library exposing the API(https://github.com/ibc/libsdptransform).  libsdptransform is a simple parser and writer of SDP. Defines internal grammar based on RFC4566 - SDP, RFC5245 - ICE, and many more.
 
 
 ## Usage
